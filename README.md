@@ -52,5 +52,13 @@ This skill is one person's honest-measurement law turned into a tool:
 
 ---
 
-Created by **Matías De Virgiliis**. Built as a Claude skill.
+## Author
+
+Created by **Matías De Virgiliis** — inventor and builder, from Argentina 🇦🇷.
+This skill is his honest-measurement law turned into a tool: *measure honestly, never sell hope, find what kills it before you build it.*
+
+GitHub: [@matiasdevir-prog](https://github.com/matiasdevir-prog)
+
+If this helped you kill a bad idea early (or make a good one survive), a ⭐ means a lot.
+
 Licensed under the MIT License — use it, fork it, make it sharper.
